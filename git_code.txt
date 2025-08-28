@@ -7,5 +7,5 @@ git add "file name"
 git status
 git commit -m "message"
 git log
-
-////
+git checkout -b branch_name
+git branch_name
